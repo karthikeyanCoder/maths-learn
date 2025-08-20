@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/maths-learn/static/css/main.5da76e5c.css",
+    "main.js": "/maths-learn/static/js/main.f58528e7.js",
+    "static/js/453.ed3810f9.chunk.js": "/maths-learn/static/js/453.ed3810f9.chunk.js",
+    "static/media/avatar-speaking.gif": "/maths-learn/static/media/avatar-speaking.75e7732c6c9cc9f9af76.gif",
+    "static/media/cropped.png": "/maths-learn/static/media/cropped.a3de52a29b0516f52638.png",
+    "index.html": "/maths-learn/index.html",
+    "main.5da76e5c.css.map": "/maths-learn/static/css/main.5da76e5c.css.map",
+    "main.f58528e7.js.map": "/maths-learn/static/js/main.f58528e7.js.map",
+    "453.ed3810f9.chunk.js.map": "/maths-learn/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5da76e5c.css",
+    "static/js/main.f58528e7.js"
+  ]
+}
